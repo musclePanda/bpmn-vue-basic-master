@@ -1,7 +1,7 @@
 <template>
   <div class="containers">
     <div class="loading" v-if="loading">
-      Loading...11111
+      Loading...测试
     </div>
     <template v-else>
       <div class="canvas" ref="canvas"></div>
